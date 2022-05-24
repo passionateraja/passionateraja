@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @passionateraja
 - 👀 I’m interested in ... Project Management
-- 🌱 I’m currently learning ... PMP
+- 🌱 I’m currently learning ... PMBoK
 - 💞️ I’m looking to collaborate on ... PMI
 - 📫 How to reach me ... email
 
